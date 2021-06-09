@@ -1,7 +1,7 @@
 const randomMessage = {
     dice: ['five', 'seven', 'three', 'nine'],
     outrageous: ['you\'re FIRED !', 'you\'ve a SECRET love child!', 'you\'ll have to pay ALIMONY 40,000 bucks.', 'you\'ll go BANKRUPT!!'],
-    goodNews: ['you\'re going to get out of JAIL.', 'your BOSS\'s dropped DEAD..yuo\'re PROMOTED.', 'your MRI shows you DON\'T have a brain tumour after all!', 'you RECEIVED inheritance of 50,000 bucks!']
+    goodNews: ['you\'re going to get out of JAIL.', 'your BOSS\'s dropped DEAD..you\'re PROMOTED.', 'your MRI shows you DON\'T have a brain tumour after all!', 'you RECEIVED inheritance of 50,000 bucks!']
 }; //Object containing arrays of random luck.
 
 function randNumGenerator() {
