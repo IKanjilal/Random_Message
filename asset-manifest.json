@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-reddit-app/static/css/main.f28bc386.css",
+    "main.js": "/react-reddit-app/static/js/main.c298709c.js",
+    "static/js/787.293d39b4.chunk.js": "/react-reddit-app/static/js/787.293d39b4.chunk.js",
+    "static/media/reddit.png": "/react-reddit-app/static/media/reddit.094eb4ea45d53edec99b.png",
+    "index.html": "/react-reddit-app/index.html",
+    "main.f28bc386.css.map": "/react-reddit-app/static/css/main.f28bc386.css.map",
+    "main.c298709c.js.map": "/react-reddit-app/static/js/main.c298709c.js.map",
+    "787.293d39b4.chunk.js.map": "/react-reddit-app/static/js/787.293d39b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28bc386.css",
+    "static/js/main.c298709c.js"
+  ]
+}
